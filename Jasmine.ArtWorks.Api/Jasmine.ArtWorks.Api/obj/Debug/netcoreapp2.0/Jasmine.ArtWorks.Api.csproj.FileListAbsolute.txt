@@ -1,0 +1,11 @@
+D:\GitHub\JasmineArtWorks\Jasmine.ArtWorks.Api\Jasmine.ArtWorks.Api\bin\Debug\netcoreapp2.0\Jasmine.ArtWorks.Api.deps.json
+D:\GitHub\JasmineArtWorks\Jasmine.ArtWorks.Api\Jasmine.ArtWorks.Api\bin\Debug\netcoreapp2.0\Jasmine.ArtWorks.Api.runtimeconfig.json
+D:\GitHub\JasmineArtWorks\Jasmine.ArtWorks.Api\Jasmine.ArtWorks.Api\bin\Debug\netcoreapp2.0\Jasmine.ArtWorks.Api.runtimeconfig.dev.json
+D:\GitHub\JasmineArtWorks\Jasmine.ArtWorks.Api\Jasmine.ArtWorks.Api\bin\Debug\netcoreapp2.0\Jasmine.ArtWorks.Api.dll
+D:\GitHub\JasmineArtWorks\Jasmine.ArtWorks.Api\Jasmine.ArtWorks.Api\bin\Debug\netcoreapp2.0\Jasmine.ArtWorks.Api.pdb
+D:\GitHub\JasmineArtWorks\Jasmine.ArtWorks.Api\Jasmine.ArtWorks.Api\obj\Debug\netcoreapp2.0\Jasmine.ArtWorks.Api.csprojResolveAssemblyReference.cache
+D:\GitHub\JasmineArtWorks\Jasmine.ArtWorks.Api\Jasmine.ArtWorks.Api\obj\Debug\netcoreapp2.0\Jasmine.ArtWorks.Api.csproj.CoreCompileInputs.cache
+D:\GitHub\JasmineArtWorks\Jasmine.ArtWorks.Api\Jasmine.ArtWorks.Api\obj\Debug\netcoreapp2.0\Jasmine.ArtWorks.Api.AssemblyInfoInputs.cache
+D:\GitHub\JasmineArtWorks\Jasmine.ArtWorks.Api\Jasmine.ArtWorks.Api\obj\Debug\netcoreapp2.0\Jasmine.ArtWorks.Api.AssemblyInfo.cs
+D:\GitHub\JasmineArtWorks\Jasmine.ArtWorks.Api\Jasmine.ArtWorks.Api\obj\Debug\netcoreapp2.0\Jasmine.ArtWorks.Api.dll
+D:\GitHub\JasmineArtWorks\Jasmine.ArtWorks.Api\Jasmine.ArtWorks.Api\obj\Debug\netcoreapp2.0\Jasmine.ArtWorks.Api.pdb
